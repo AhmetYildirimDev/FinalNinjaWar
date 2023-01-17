@@ -23,7 +23,8 @@ Oyun tuşları W/A/S/D veya YÖN TUŞLARI'dır. W-YUKARI OK ----> YUKARI EKSENE 
             Hikaye
 Nippon 'da büyük edo dönemi sonrasında ninja klanları arasında güç dengeleri değişmiştir. Edo döneminde Nippon'un en güçlü ninja klanı olan İga klanından Obi, Klanını eski istikrarına kavuşturmak için çıktığı görevlerde farkına varırki, savaştığı şeyler sadece Harusame ( Uzay Korsanları) değildir. Diğer Ninja klanları mutlak gücü İga klanına vermek istememektedir. Bakalım Kahramınımız Obi tekrardan güç sıralamasında klanını ilk bire koyabilecek mi?
 
-  Projemizde İş Dağılımı
+           Projemizde İş Dağılımı
+           
 Ana Menü // Ahmet Yildirim
 
 Oynanabilir Sahneler ve Sahneler arasi asenkron gecis// Oguzhan Kahraman
