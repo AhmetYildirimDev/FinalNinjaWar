@@ -41,9 +41,13 @@ https://simmer.io/@OguzhanBilalK/final-ninja-war
 
             Oyun İçi Görseller:
 --Ana Menu-- image
+https://user-images.githubusercontent.com/73184456/212918786-3b902e70-7176-4a1e-b03c-65c6fa2f6c2b.png
 
 --Stage 1-- image
+https://user-images.githubusercontent.com/73184456/212918897-e5f223dd-d953-4dcc-b822-44e1e2438fb1.png
 
 --Stage 2-- image
+https://user-images.githubusercontent.com/73184456/212919083-1e9ec88f-9891-4df2-83ca-428a500543ee.png
 
 --Pause Menu-- image
+https://user-images.githubusercontent.com/73184456/212919197-b6deeade-ab7b-45f5-b7b3-725ad45a51d8.png
